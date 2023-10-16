@@ -1,7 +1,1 @@
-Mod = {
-    modname: "Test"
-};
-
-Game.registerMod(Mod.modname,Test);
-
-Game.Popup("hi",1,200);
+Game.Popup("hallo",1,150);
