@@ -4,4 +4,4 @@ Mod = {
 
 Game.registerMod(Mod.modname,Test);
 
-console.log("hi");
+Game.Popup("hi",1,200);
